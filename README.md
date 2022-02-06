@@ -4,6 +4,6 @@ A new Flutter project.
 
 ## Getting Started
 
-<img src="list.png" width="350">
+<img src="list.PNG" width="350">
 
-<img src="add_list.png" width="350">
+<img src="add_list.PNG" width="350">
